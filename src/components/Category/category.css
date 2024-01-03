@@ -5,7 +5,7 @@
 
 .heading-category {
   font-size: 2.4rem;
-  color: #9575de;
+  color: #35d0ba;
   font-weight: 700;
   letter-spacing: 1px;
   margin: 20px 0px 90px;
@@ -46,11 +46,27 @@
 
 .btn-category,
 .btn-category-arrow {
-  color: #f0eb8d;
+  color: #f8c43a;
   text-decoration: none;
   font-size: 13px;
   text-transform: uppercase;
   transition: 0.2s ease;
+}
+
+.btn-category::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  height: 2px;
+  background-color: #ffc23c;
+  bottom: 0.5rem;
+  left: 1rem;
+  width: 0rem;
+  transition: 0.2s ease;
+}
+
+.btn-category:hover::after {
+  width: 6.8rem;
 }
 
 .btn-category:hover,

@@ -24,14 +24,14 @@ nav .logo {
   padding: 10px 40px;
   border-radius: 50px;
   font-weight: 600;
-  background-color: #f0eb8d;
-  border: 2px solid #f0eb8d;
+  background-color: #f8c43a;
+  border: 2px solid #f8c43a;
   color: black;
   transition: 0.2s ease;
 }
 
 .btn-navbar:hover {
   background-color: transparent;
-  color: #f0eb8d;
-  border: 2px solid #f0eb8d;
+  color: #f8c43a;
+  border: 2px solid #f8c43a;
 }

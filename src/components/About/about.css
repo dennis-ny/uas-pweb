@@ -10,7 +10,7 @@
 
 .heading-contact {
   font-size: 2.4rem;
-  color: #9575de;
+  color: #35d0ba;
   font-weight: 700;
   letter-spacing: 1px;
   margin: 20px 0px 90px;
@@ -58,23 +58,23 @@
 
 .btn-contact {
   display: inline-block;
-  font-size: 14px;
+  text-decoration: none;
+  color: black;
+  border: 1px solid #f8c43a;
+  background-color: #f8c43a;
+  margin-top: 12px;
   border-radius: 25px;
   padding: 12px 25px;
-  border: none;
-  outline: none;
-  background-color: #f0eb8d;
-  color: black;
+  font-size: 14px;
   font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  text-decoration: none;
-  margin-top: 12px;
+  outline: none;
   transition: 0.2s ease;
 }
 
 .btn-contact:hover {
-  background-color: #ffc23c;
+  background-color: transparent;
+  color: #f8c43a;
+  border: 1px solid #f8c43a;
 }
 
 .content-contact {
