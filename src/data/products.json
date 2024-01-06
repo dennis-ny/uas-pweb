@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "α7CR full-frame ringkas 61,0 MP",
+    "price": "Rp. 46.999.000",
+    "description": "Perpaduan sempurna antara resolusi super tinggi 61,0 MP dan kinerja profesional dalam desain mirrorless yang ringkas.",
+    "category": "kamera",
+    "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/520_Category?$goldenAreaImage$&fmt=png-alpha"
+  },
+  {
+    "id": 2,
+    "title": "Kamera vlog ZV-1F",
+    "price": "Rp. 7.999.000",
+    "description": "Memadukan kualitas gambar yang tajam dengan fitur-fitur khusus vlogging, seperti layar flip-out yang memudahkan pengguna dalam merekam konten diri sendiri.",
+    "category": "kamera",
+    "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/01_ZV-1F?$goldenAreaImage$&fmt=png-alpha"
+  },
+  {
+    "id": 3,
+    "title": "PS5 Access Controller",
+    "price": "Rp. 1.395.000",
+    "description": "Kontroler akses Sony PS5 menawarkan pengalaman gaming yang responsif dengan teknologi haptik yang memperkaya sensasi dalam permainan.",
+    "category": "playstation",
+    "image": "https://gmedia.playstation.com/is/image/SIEPDC/access-controller-featured-hardware-image-block-01-en-12oct23?$1600px$"
+  },
+  {
+    "id": 4,
+    "title": "FE 16-35mm F2.8 GM II",
+    "price": "Rp. 35.999.000",
+    "description": "Lensa wide-angle yang canggih dengan kecerahan dan ketajaman luar biasa menawarkan kualitas gambar yang superior dan performa optik yang unggul.",
+    "category": "kamera",
+    "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/L32_513_category?$goldenAreaImage$&fmt=png-alpha"
+  },
+  {
+    "id": 5,
+    "title": "Noice Cancelling WH-1000XM5",
+    "price": "Rp. 5.999.000",
+    "description": "Headphone dengan teknologi noise cancelling canggih yang menghadirkan pengalaman mendengarkan musik tanpa gangguan dari suara luar.",
+    "category": "audio",
+    "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/Headphones-product-finder-desktop-and-mobile-Headband-714x439?$productFinder$&fmt=png-alpha"
+  },
+  {
+    "id": 6,
+    "title": "FE 70-200 mm F4 Macro G OSS Ⅱ",
+    "price": "Rp. 24.999.000",
+    "description": "Menawarkan jangkauan zoom yang luas serta kemampuan makro yang memukau untuk fotografi detail. Menghadirkan teknologi Optical SteadyShot.",
+    "category": "kamera",
+    "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/495-category?$goldenAreaImage$&fmt=png-alpha"
+  },
+  {
+    "id": 7,
+    "title": "Kamera full-frame ringkas α7C II",
+    "price": "Rp. 31.999.000",
+    "description": "Kamera full-frame ringkas α7C II Sony menghadirkan kombinasi luar biasa antara ukuran kompak dan performa tinggi dalam menghasilkan gambar berkualitas superior.",
+    "category": "kamera",
+    "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/519-category?$goldenAreaImage$&fmt=png-alpha"
+  },
+  {
+    "id": 8,
+    "title": "PS5 konsol",
+    "price": "Rp. 8.199.000",
+    "description": "Konsol permainan canggih dengan teknologi inovatif, menyajikan pengalaman gaming berkualitas tinggi dengan resolusi grafis yang memukau.",
+    "category": "playstation",
+    "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-console-featured-hardware-image-block-01-en-11aug23?$1600px$"
+  },
+  {
+    "id": 9,
+    "title": "RX0 II kamera",
+    "price": "Rp. 10.099.000",
+    "description": "Kamera kompak yang kuat dengan sensor gambar 1 inci yang memberikan hasil berkualitas tinggi dalam desain yang tahan air dan tahan goncangan.",
+    "category": "kamera",
+    "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/04_DSC-RX0M2G?$goldenAreaImage$&fmt=png-alpha"
+  },
+  {
+    "id": 10,
+    "title": "Headphone Nirkabel WF-1000XM5",
+    "price": "Rp. 3.399.000",
+    "description": "Kualitas audio yang luar biasa dengan teknologi noise-cancelling canggih, memberikan pengalaman mendengarkan yang imersif.",
+    "category": "audio",
+    "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/Headphones-product%20finder-desktop-and-mobile-Truly%20Wireless-714x439?$productFinder$&fmt=png-alpha"
+  },
+  {
+    "id": 11,
+    "title": "DualSense Wireless Controller",
+    "price": "Rp. 1.359.000",
+    "description": "Kontroler inovatif yang menghadirkan pengalaman gaming yang imersif dengan fitur-fitur haptic feedback dan adaptive triggers yang responsif.",
+    "category": "playstation",
+    "image": "https://gmedia.playstation.com/is/image/SIEPDC/dualsense-range-stacked-image-block-01-en-11feb22?$1600px$"
+  }
+]

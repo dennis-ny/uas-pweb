@@ -16,7 +16,7 @@ nav .logo {
 
 .nav-item:hover .nav-link {
   color: white;
-  text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.822);
+  text-shadow: 0px 0px 8px rgba(255, 255, 255, 0.622);
 }
 
 .btn-navbar {

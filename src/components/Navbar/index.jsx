@@ -1,6 +1,12 @@
 import "./navbar.css";
+import { Link } from "react-router-dom";
+import { HashLink } from "react-router-hash-link";
 
 const Navbar = () => {
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
   return (
     <nav
       className="navbar navbar-expand-lg bg-dark border-bottom shadow sticky-top"
@@ -24,29 +30,29 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <Link to={"/"} className="nav-link" onClick={scrollToTop}>
                 Beranda
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <HashLink className="nav-link" to="/#latest">
                 Terbaru
-              </a>
+              </HashLink>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <HashLink className="nav-link" to="/#category">
                 Kategori
-              </a>
+              </HashLink>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <HashLink className="nav-link" to="/#contact">
                 Kontak
-              </a>
+              </HashLink>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <Link to={"/products"} className="nav-link" onClick={scrollToTop}>
                 Produk
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
               <a className="btn-navbar text-decoration-none" href="#">

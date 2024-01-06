@@ -1,0 +1,13 @@
+.products-title {
+  font-weight: 700;
+  line-height: 6rem;
+  margin: 10px 0px 40px;
+}
+
+.products-title span {
+  color: #35d0ba;
+}
+
+.products-card {
+  width: 18rem;
+}

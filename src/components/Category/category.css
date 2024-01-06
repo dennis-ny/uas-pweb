@@ -1,6 +1,14 @@
 .category {
   width: 100%;
   min-height: 90vh;
+  position: relative;
+}
+
+.category-anchor {
+  border: 1px solid red;
+  position: absolute;
+  left: 0;
+  top: -100px;
 }
 
 .heading-category {

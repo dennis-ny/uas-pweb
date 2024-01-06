@@ -1,6 +1,13 @@
 .latest-container {
   width: 100%;
   min-height: 80vh;
+  position: relative;
+}
+
+.latest-anchor {
+  position: absolute;
+  left: 0;
+  top: -140px;
 }
 
 .latest {

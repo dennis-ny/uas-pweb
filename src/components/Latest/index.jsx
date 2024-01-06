@@ -4,6 +4,7 @@ const Latest = () => {
   return (
     <div className="container">
       <div className="latest-container">
+        <div className="latest-anchor" id="latest" />
         <div className="latest">
           <div className="row">
             <div className="col-lg-6">

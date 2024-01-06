@@ -3,6 +3,7 @@ import "./about.css";
 const About = () => {
   return (
     <div className="contact-form">
+      <div className="contact-anchor" id="contact" />
       <h2 className="heading-contact">TENTANG KAMI</h2>
       <div className="container">
         <div className="row">

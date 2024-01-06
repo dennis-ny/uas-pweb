@@ -3,6 +3,7 @@ import "./category.css";
 const Category = () => {
   return (
     <div className="category">
+      <div className="category-anchor" id="category" />
       <h2 className="heading-category">KATEGORI PRODUK</h2>
       <div className="container">
         <div className="row row-cols-1 row-cols-lg-3 g-4">

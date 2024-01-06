@@ -1,0 +1,19 @@
+.product .card {
+  background-color: #fafafa;
+}
+
+.product h2 {
+  border-top: 1px solid black;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.product p {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 0.71rem;
+}
+
+.product .card-footer span {
+  color: black;
+  font-weight: 600;
+}
