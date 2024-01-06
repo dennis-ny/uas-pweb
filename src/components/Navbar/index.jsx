@@ -14,7 +14,7 @@ const Navbar = () => {
     >
       <div className="container">
         <a className="navbar-brand" href="#">
-          <img src="/sony-logo.svg" alt="Sony Logo" className="logo" />
+          <img src="images/sony-logo.svg" alt="Sony Logo" className="logo" />
         </a>
         <button
           className="navbar-toggler"

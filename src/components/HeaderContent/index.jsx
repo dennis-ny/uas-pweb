@@ -10,7 +10,7 @@ const HeaderContent = () => {
               <div className="col-lg-7 col-md-5">
                 <div className="img-container d-flex justify-content-center align-items-center">
                   <img
-                    src="/header-sony-a9-mark-ii.png"
+                    src="images/header-sony-a9-mark-ii.png"
                     alt="Sony a9 mark ii"
                     className="img-header w-md-100 p-3 p-md-1 p-lg-5"
                   />

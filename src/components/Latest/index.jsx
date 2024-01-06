@@ -27,7 +27,7 @@ const Latest = () => {
             </div>
             <div className="col-lg-6 image-latest-container">
               <img
-                src="/sony-1000x.jpg"
+                src="images/sony-1000x.jpg"
                 alt="sony-1000x image"
                 className="image-latest"
               />

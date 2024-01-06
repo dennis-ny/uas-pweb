@@ -10,7 +10,7 @@ const Category = () => {
           <div className="col card-container">
             <div className="card h-100">
               <img
-                src="/category-camera.jpeg"
+                src="images/category-camera.jpeg"
                 className="card-img-top img-category"
                 alt="kategori kamera"
               />
@@ -35,7 +35,7 @@ const Category = () => {
           <div className="col card-container">
             <div className="card h-100">
               <img
-                src="/category-audio.jpg"
+                src="images/category-audio.jpg"
                 className="card-img-top img-category"
                 alt="kategori audio"
               />
@@ -60,7 +60,7 @@ const Category = () => {
           <div className="col card-container">
             <div className="card h-100">
               <img
-                src="/category-playstation.jpeg"
+                src="images/category-playstation.jpeg"
                 className="card-img-top  img-category"
                 alt="kategori playstation"
               />
